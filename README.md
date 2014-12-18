@@ -3,7 +3,8 @@ test001
 
 Test 001 for Implemica
 
-Runnable jar can be downloaded here: https://www.dropbox.com/s/6oqkoypat4bldwk/Test001.jarPlease, provide N as command-line argument.
+Runnable jar can be downloaded here: https://www.dropbox.com/s/6oqkoypat4bldwk/Test001.jar
+Please, provide N as command-line argument.
 
 Если мы из корректно записанного арифметического выражения, содержащего числа, знаки операций и открывающие и закрывающие круглые скобки выбросим числа и знаки операций, а затем запишем оставшиеся в выражении скобки без пробелов между ними, то полученный результат назовем правильным скобочным выражением [скобочное выражение "(()(()))" - правильное, а "()(" и "())(" - нет].
 Найти число правильных скобочных выражений, содержащих N открывающихся и N закрывающихся скобок. N вводится с клавиатуры. N неотрицательное целое число.
